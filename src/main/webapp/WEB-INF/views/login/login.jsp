@@ -14,6 +14,8 @@
 
 		<link rel="stylesheet" href="/css/dlstyle.css" type="text/css">
 
+		<link rel="stylesheet" href="/mycss/my.css">
+
 	</head>
 
 	<body>
